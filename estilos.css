@@ -1,0 +1,5 @@
+body{background-color: azure;}
+h1{color: darkmagenta;text-align: center;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+#Vitor{display: flex;align-items: center;justify-content: center;}
+img{max-width: 300px;}
+img:hover{opacity: 70%;}
