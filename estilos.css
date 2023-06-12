@@ -3,3 +3,4 @@ h1{color: darkmagenta;text-align: center;font-family: 'Trebuchet MS', 'Lucida Sa
 #Vitor{display: flex;align-items: center;justify-content: center;}
 img{max-width: 300px;}
 img:hover{opacity: 70%;}
+img:hover{-moz-transform: scale(1.2);-webkit-transform: scale(1.2);transform: scale(1.2);}
